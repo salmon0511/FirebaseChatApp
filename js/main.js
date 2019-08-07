@@ -1,12 +1,12 @@
 'use strict'
   // Initialize Firebase
 const config = {
-    apiKey: "AIzaSyCNoa2jjczGj9gtPh5uHcDc8ANk7XgXrsk",
-    authDomain: "my-project-e5755.firebaseapp.com",
-    databaseURL: "https://my-project-e5755.firebaseio.com",
-    projectId: "my-project-e5755",
-    storageBucket: "my-project-e5755.appspot.com",
-    messagingSenderId: "598542474987"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
